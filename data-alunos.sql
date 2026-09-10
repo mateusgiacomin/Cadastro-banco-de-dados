@@ -1,3 +1,9 @@
+CREATE DATABASE IF NOT EXISTS teste;
+USE teste;
+
+DROP TABLE IF EXISTS `alunos`;
+
+
 DROP TABLE IF EXISTS `alunos`;
 
 CREATE TABLE `alunos` (
